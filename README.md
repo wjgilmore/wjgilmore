@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Jason Gilmore is a Dublin, Ohio-based software developer, writer and consultant who currently serves as CEO of <a href="https://www.teamtreehouse.com/>Treehouse</a>. Prior to joining Treehouse, Jason served as CTO of <a href="https://www.dreamfactory.com">DreamFactory Software</a>. He has spent much of the past 20 years helping companies of all sizes build amazing products.</p>
+Jason Gilmore is a Dublin, Ohio-based software developer, writer and consultant who currently serves as CEO of <a href="https://www.teamtreehouse.com/">Treehouse</a>. Prior to joining Treehouse, Jason served as CTO of <a href="https://www.dreamfactory.com">DreamFactory Software</a>. He has spent much of the past 20 years helping companies of all sizes build amazing products.</p>
 
 <p>Jason is the author of nine books, including the bestselling “<a href="https://www.amazon.com/Beginning-PHP-MySQL-Novice-Professional/dp/1430231149/">Beginning PHP and MySQL, Fourth Edition</a>”, “<a href="https://leanpub.com/easylaravel">Easy Laravel 5</a>”, “Easy PHP Websites with the Zend Framework, Second Edition”, and “Easy Active Record for Rails Developers”.</p>
 
