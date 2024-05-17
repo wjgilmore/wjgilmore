@@ -6,10 +6,6 @@ I'm the author of nine books, including the bestselling “<a href="https://www.
 
 Over the years I've published more than 300 articles within popular publications such as Developer.com, JSMag, and Linux Magazine, and instructed hundreds of students in the United States and Europe. Check out my personal website <a href="https://wjgilmore.com">WJGilmore.com</a>.
 
-## CodeMash
-
-I'm cofounder of the popular <a href="https://www.codemash.org/">CodeMash Conference</a>, the largest multi-day developer event in the Midwest. Although I'm no longer involved in the organization (burnout is a thing), attending the event and companion KidzMash conference has become a much anticipated few days for me and the family. Away from the keyboard you'll find me hanging out with the family, hunched over a chess board, or having fun with DIY electronics.
-
 ## EmailReputationAPI
 
 In August, 2023 I launched <a href="https://emailreputationapi.com">EmailReputationAPI</a> in response to the rampant abuse I've witnessed over the years with regards to bots, scammers, and credit card fraudsters signing up to legitimate online services using anonymized and illegitimate personal email accounts. EmailReputationAPI offers an easy API which will help companies identify both personal and anonymized email domains whether at time of registration or during periodic CRM audits. 
@@ -17,3 +13,7 @@ In August, 2023 I launched <a href="https://emailreputationapi.com">EmailReputat
 ## About Treehouse
 
 Treehouse is an award-winning online platform that has taught more than 1 million people how to code and design.
+
+## CodeMash
+
+I'm (now long retired) cofounder of the popular <a href="https://www.codemash.org/">CodeMash Conference</a>, the largest multi-day developer event in the Midwest. Although I'm no longer involved in the organization, attending the event and companion KidzMash conference has become a much anticipated few days for me and the family. Away from the keyboard you'll find me hanging out with the family, hunched over a chess board, or having fun with DIY electronics.
