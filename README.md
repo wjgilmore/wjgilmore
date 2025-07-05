@@ -6,6 +6,8 @@ I'm the author of ~~nine~~ ten books, including the recently published *<a href=
 
 Over the years I've published more than 300 articles within popular publications such as Developer.com, JSMag, and Linux Magazine, and instructed hundreds of students in the United States and Europe. Check out my personal website <a href="https://wjgilmore.com">WJGilmore.com</a>.
 
+Jason is co-founder of <a href="https://6dollarcrm.com">6DollarCRM</a>, a cost-effective CRM tool that helps small businesses and entrepreneurs manage their personal and business relationships.
+
 ## CodeMash
 
 I'm (now long retired) cofounder of the popular <a href="https://www.codemash.org/">CodeMash Conference</a>, the largest multi-day developer event in the Midwest. Although I'm no longer involved in the organization, attending the event and companion KidzMash conference has become a much anticipated few days for me and the family. Away from the keyboard you'll find me hanging out with the family, hunched over a chess board, or having fun with DIY electronics.
