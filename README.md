@@ -6,7 +6,7 @@ I'm the author of ~~nine~~ ten books, including the recently published *<a href=
 
 Over the years I've published more than 300 articles within popular publications such as Developer.com, JSMag, and Linux Magazine, and instructed hundreds of students in the United States and Europe. Check out my personal website <a href="https://wjgilmore.com">WJGilmore.com</a>.
 
-In my spare time I'm building <a href="https://6dollarcrm.com">6DollarCRM</a>, a cost-effective CRM that helps small businesses and entrepreneurs manage personal and professional relationships.
+In my spare time I'm building <a href="https://6dollarcrm.com">6DollarCRM</a>, a cost-effective CRM that helps small businesses and entrepreneurs manage personal and professional relationships. I'm also building <a href="https://securitybot.dev">SecurityBot.dev</a>, a free uptime and security monitoring tool.
 
 ## CodeMash
 
