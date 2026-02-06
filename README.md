@@ -1,6 +1,11 @@
 # Hi there 👋
 
-I'm a Dublin, Ohio-based software developer, writer and consultant who currently serves as the CTO of no-code mobile app builder <a href="https://www.adalo.com">Adalo</a>, as well as the technical partner at <a href="https://xenon.io">Xenon Partners</a>. Prior to this role I spent two years as CEO of <a href="https://www.teamtreehouse.com/">Treehouse</a>. Prior to joining Treehouse, I served three years as CTO of <a href="https://www.dreamfactory.com">DreamFactory Software</a>. My career has been devoted to helping companies of all sizes build amazing products.</p>
+> I'm a Dublin, Ohio-based software executive, developer, and consultant. I currently serve as the
+> CTO of no-code mobile app builder <a href="https://www.adalo.com">Adalo</a>, as well as the
+> technical partner at <a href="https://xenon.io">Xenon Partners</a>. Prior to this role I spent
+> two years as CEO of <a href="https://www.teamtreehouse.com/">Treehouse</a>. Prior to joining Treehouse, I served
+> three years as CTO of <a href="https://www.dreamfactory.com">DreamFactory Software</a>. My career has been devoted to
+> helping companies build amazing software products.
 
 ## SaaS Products I Built
 
