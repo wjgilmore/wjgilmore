@@ -17,7 +17,7 @@ Over the years I have led many technical due diligence projects (part of the M&A
 * <a href="https://securitybot.dev">SecurityBot.dev</a>
 * <a href="https://spiesindc.com">SpiesInDC</a>
 * <a href="https://6dollarcrm.com">6DollarCRM</a>
-* <a href="https://turboshrink.com/">TurboShrink</a>
+* <a href="">TurboShrink</a> (offline)
 
 ## Books I've Written
 
