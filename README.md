@@ -11,6 +11,7 @@ Over the years I have led many technical due diligence projects (part of the M&A
 
 ## SaaS Products I Built
 
+* <a href="https://iterops.com">IterOps</a>
 * <a href="https://contributoriq.com">ContributorIQ</a>
 * <a href="https://dependencydesk.com">DependencyDesk</a>
 * <a href="https://securitybot.dev">SecurityBot.dev</a>
