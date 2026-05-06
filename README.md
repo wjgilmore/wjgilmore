@@ -2,10 +2,12 @@
 
 > I'm a Dublin, Ohio-based software executive, developer, and consultant. I currently serve as the
 > CTO of no-code mobile app builder <a href="https://www.adalo.com">Adalo</a>, as well as the
-> technical partner at <a href="https://xenon.io">Xenon Partners</a>. Prior to this role I spent
-> two years as CEO of <a href="https://www.teamtreehouse.com/">Treehouse</a>. Prior to joining Treehouse, I served
-> three years as CTO of <a href="https://www.dreamfactory.com">DreamFactory Software</a>. My career has been devoted to
-> helping companies build amazing software products. Learn more about me at <a href="https://wjgilmore.com">WJGilmore.com</a>.
+> technical partner at <a href="https://xenon.io">Xenon Partners</a> where among other things I lead
+> the M&A technical due diligence practice and have spearheaded the integration of AI coding tools
+> across the portfolio. Prior to this role I spent two years as CEO of <a href="https://www.teamtreehouse.com/">Treehouse</a>.
+> Prior to joining Treehouse, I served three years as CTO of <a href="https://www.dreamfactory.com">DreamFactory Software</a>.
+> My career has been devoted to helping companies build amazing software products. Learn more about
+> me at <a href="https://wjgilmore.com">WJGilmore.com</a>.
 
 Over the years I have led many technical due diligence projects (part of the M&A process), and am currently leading the rollout of agentic AI coding processes across the Xenon Partners company portfolio. I recently served as the Executive Chair for the O'Reilly <a href="https://www.oreilly.com/live/ai-superstream-building-saas-businesses-with-ai.html">Building Businesses with AI</a> online conference, and in a surreal moment was interviewed for <a href="https://www.oreilly.com/radar/building-ai-powered-saas-businesses/">O'Reilly Radar</a> about how I use AI to build SaaS products.
 
