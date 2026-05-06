@@ -20,7 +20,7 @@ Over the years I have led many technical due diligence projects (part of the M&A
 * <a href="https://npsbeacon.com">NPSBeacon</a>
 * <a href="https://phraseduel.com">PhraseDuel</a>
 * <a href="">TurboShrink</a> (shut down in early 2026)
-* * <a href="https://emailreputationapi.com">EmailReputationAPI</a> (shut down in May, 2026)
+* <a href="https://emailreputationapi.com">EmailReputationAPI</a> (shut down in May, 2026)
 
 
 ## Books I've Written
