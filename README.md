@@ -9,7 +9,7 @@
 > My career has been devoted to helping companies build amazing software products. Learn more about
 > me at <a href="https://wjgilmore.com">WJGilmore.com</a>.
 
-Over the years I have led many technical due diligence projects (part of the M&A process), and am currently leading the rollout of agentic AI coding processes across the Xenon Partners company portfolio. I recently served as the Executive Chair for the O'Reilly <a href="https://www.oreilly.com/live/ai-superstream-building-saas-businesses-with-ai.html">Building Businesses with AI</a> online conference, and in a surreal moment was interviewed for <a href="https://www.oreilly.com/radar/building-ai-powered-saas-businesses/">O'Reilly Radar</a> about how I use AI to build SaaS products.
+I recently served as the Executive Chair for the O'Reilly <a href="https://www.oreilly.com/live/ai-superstream-building-saas-businesses-with-ai.html">Building Businesses with AI</a> online conference, and in a surreal moment was interviewed for <a href="https://www.oreilly.com/radar/building-ai-powered-saas-businesses/">O'Reilly Radar</a> about how I use AI to build SaaS products.
 
 ## SaaS Products I Built
 
